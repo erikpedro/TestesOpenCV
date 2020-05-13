@@ -6,7 +6,9 @@ public class TesteOpencv {
 		
 		Exemplo1 e1 = new Exemplo1();
 		
-		e1.faceolho();
+		Exemplo2 e2 = new Exemplo2();
+		
+		e2.olhosEface();
 		
 
 
